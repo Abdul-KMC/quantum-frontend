@@ -1,0 +1,16 @@
+.DataTable {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    padding: auto;
+    font-size: x-large;
+}
+table,
+th,
+td {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 1px solid;
+    border: none;
+}
